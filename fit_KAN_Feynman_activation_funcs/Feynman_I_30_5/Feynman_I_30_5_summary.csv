@@ -1,0 +1,4 @@
+activation_function,num_g,num_h,rmse,mse,r2
+KAN_Feynman_activation_funcs/Feynman_I_30_5/a0.csv,1,1,6.130962281985373e-05,3.7588698503127295e-09,0.9999743098360971
+KAN_Feynman_activation_funcs/Feynman_I_30_5/n0.csv,1,2,3.4670402429114363e-06,1.2020368045967391e-11,0.9997684104246606
+KAN_Feynman_activation_funcs/Feynman_I_30_5/node1_0.csv,2,2,0.005806419706299196,3.3714509805699645e-05,0.9998776734514792
